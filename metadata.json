@@ -1,0 +1,6 @@
+{
+  "name": "Studio Copilot",
+  "description": "Plataforma especializada en Roblox Studio y Luau con IA, integración MCP y academia interactiva. Desarrollado por Pablito Studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
